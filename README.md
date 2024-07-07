@@ -1,7 +1,7 @@
 Hi there 👋
 - 🔭 I’m currently working on My first project   
 - 🌱 I’m currently learning Laravel
-- 📫 How to reach me: t.me/gricle
+- 📫 How to reach me: https://t.me/gricle
 - 😄 Pronouns: he/him
 <!-- ⚡ Fun fact: ...-->
 <!--
