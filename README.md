@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6e40c9,50:9d50dd,100:6e40c9&height=200&section=header&text=gricle&fontSize=70&fontAlignY=40&fontColor=ffffff&animation=twinkling&desc=Turning%20coffee%20into%20code%20%E2%9A%A1&descSize=18&descAlignY=62&descColor=ffffffcc"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=9D50DD&center=true&vCenter=true&width=620&lines=PHP+%26+Laravel+Artisan+%E2%9A%A1;AI+Agent+%26+LLM+Engineer+%F0%9F%A4%96;Docker+%7C+Kubernetes+Sailor+%F0%9F%90%B3;Building+kyzdigital-agents+%F0%9F%9A%80;Stripe+Payments+Integrator+%F0%9F%92%B3" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=9D50DD&center=true&vCenter=true&width=620&lines=PHP+%26+Laravel+Artisan+%E2%9A%A1;AI+Agent+%26+LLM+Engineer+%F0%9F%A4%96;Docker+%7C+Kubernetes+Sailor+%F0%9F%90%B3;Stripe+Payments+Integrator+%F0%9F%92%B3" alt="Typing SVG"/>
 </p>
 
 <p align="center">
@@ -44,7 +44,6 @@ class Developer
 
     /** @var string[] */
     public array $currentFocus = [
-        'Building AI-powered agents with Claude & LLMs 🤖',
         'Crafting scalable PHP/Laravel REST APIs ⚡',
         'Orchestrating services with Docker & Kubernetes 🐳',
     ];
@@ -54,7 +53,6 @@ class Developer
         'ajimaji-api'       => 'Core REST API service',
         'mail-wizz'         => 'Email automation platform 📧',
         'retime-api'        => 'Time management API ⏱️',
-        'kyzdigital-agents' => 'AI agent platform 🤖',
         'owl'               => 'Observability & monitoring 🦉',
     ];
 
