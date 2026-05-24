@@ -37,7 +37,7 @@ namespace Gricle;
 
 class Developer
 {
-    public string $name     = 'Hadi';
+    public string $name     = 'Mehdi';
     public string $username = 'gricle';
     public string $ide      = 'PhpStorm ❤️';
     public string $os       = 'Windows 11';
