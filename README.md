@@ -48,14 +48,6 @@ class Developer
         'Orchestrating services with Docker & Kubernetes 🐳',
     ];
 
-    /** @var array<string, string> */
-    public array $projects = [
-        'ajimaji-api'       => 'Core REST API service',
-        'mail-wizz'         => 'Email automation platform 📧',
-        'retime-api'        => 'Time management API ⏱️',
-        'owl'               => 'Observability & monitoring 🦉',
-    ];
-
     public function dailyRoutine(): never
     {
         while (true) {
